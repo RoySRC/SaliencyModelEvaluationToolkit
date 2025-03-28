@@ -44,7 +44,7 @@ Ground-truth masks are preprocessed using a thresholding function and saved unde
 
 ## Requirements
 
-- MATLAB R2018 or later (recommended)
+- MATLAB R2024 or later (recommended)
 - Required folders must be on the MATLAB path:
   - `FES/`
   - `CovSal/`
